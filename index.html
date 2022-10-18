@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HV Shop</title>
+
+    <!-- font awesome link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" /> 
+
+    <!-- css file -->
+    <link rel="stylesheet" href="./all/color.css">
+    <link rel="stylesheet" href="./style-home.css">
+    <link rel="stylesheet" href="./all/style.css">
+
+
+
+</head>
+<body>
+
+    <!-- header starts -->
+    <header>
+    <div class="header-top">
+        <div class="logo">
+            <h2>HV</h2>
+            <p>Shop</p>
+        </div>
+        <div class="search-box">
+            <input id="search-box" type="text" placeholder="Bạn muốn tìm">
+            <label for="search-box"><i class="fas fa-search"></i></label>
+            <div class="search-block">
+                <p>Bạn muốn tìm</p>
+            </div>
+        </div>
+    </div>
+    <div class="header-bottom">
+        <div class="menu">
+            <div class="btn-menu" id="btn-menu"><i class="fas fa-bars"></i></div>
+            <div class="menu-section">
+                <a href="./index.html">Trang chủ</a>
+                <a href="./shop/shop.html">Cửa hàng</a>
+                <a href="./introduce/introduce.html">Giới thiệu</a>
+                <a href="./contact/contact.html">Liên hệ</a>
+                <a href="./sitemap/sitemap.html">Hướng dẫn</a>
+
+            </div>
+        </div>
+        <div class="icons">
+            <a href="./notification/notification.html"><i class="fas fa-bell"></i></a>
+            <a href="./cart/cart.html"><i class="fas fa-shopping-cart" id="cart"><div class="count">1</div></i></a>
+            <a href="./login/login.html" class="image-user">
+                <img src="./image/avatar.png" alt="">
+            </a>
+        </div>
+        
+    </div>
+    </header>
+    <!-- header ends-->
+
+    <!-- event section start -->
+    <div class="events">
+        <div class="frame">
+            <i class="fas fa-angle-left prev-btn" onclick="prevSlide()"></i>
+            <div class="slide-group">
+                <div class="slide-item">
+                    <img src="./image/events/event1.jpg" alt="">
+                </div>
+                <div class="slide-item">
+                    <img src="./image/events/event2.jpg" alt="">
+                </div>
+                <div class="slide-item">
+                    <img src="./image/events/event1.jpg" alt="">
+                </div>
+                <div class="slide-item">
+                    <img src="./image/events/event2.jpg" alt="">
+                </div>
+            </div>
+            <i class="fas fa-angle-right next-btn" onclick="nextSlide()"></i>
+        </div>
+    </div>
+    <!-- event section end -->
+
+
+    <!-- main starts -->
+    <article>
+        
+
+        <!-- hot product section start -->
+        <section id="hot">
+            <div class="title">Sản phẩm hot</div>
+            <div class="wrapper"></div>
+        </section>
+        <!-- hot product section ends -->
+
+
+        <!-- sale product section start -->
+        <section id="sale">
+            <div class="title">Siêu giảm giá</div>
+            <div class="wrapper">
+            </div>
+        </section>
+        <!-- sale product section end -->
+
+        <!-- new product section start -->
+        <section id="new">
+            <div class="title">Sản phẩm mới về</div>
+            <div class="wrapper">
+            </div>
+        </section>
+        <!-- new product section end-->
+
+
+
+
+    </article>
+    <!-- main ends -->
+
+    <!-- footer starts -->
+    <footer>
+    <div class="icons">
+        <div class="icon-group">
+            <i class="fas fa-phone"></i>
+            <div class="text">+84 999 999 999</div>
+            <div class="text">+84 789 789 789</div>
+        </div>
+    
+        <div class="icon-group">
+            <i class="fas fa-map-marker-alt"></i>
+            <div class="text">123/321 đường số 1, quận Bình Chánh</div>
+        </div>
+    
+        <div class="icon-group">
+            <i class="fas fa-comments"></i>
+            <div class="text">Võ Phước Hậu <br>21089291</div>
+            <div class="text">Trần Thanh Vy<br>21098751</div>
+        </div>
+    
+        <div class="footer">HVShop uy tín, chất lượng, nhiệt tình</div>
+    </div>
+    </footer>
+    <!-- footer ends -->
+
+
+
+    <!-- javascript file -->
+    <script type="module" src="./script.js"></script>
+</body>
+</html>

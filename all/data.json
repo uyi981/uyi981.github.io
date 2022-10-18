@@ -1,0 +1,51 @@
+[
+    {
+        "id": 0,
+        "title": "hoodie and leggings set",
+        "price": 319000,
+        "image": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9e%2Fe6%2F9ee6bab40744640add139582fbfd8cb208ba91e5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    },
+    {
+        "id": 1,
+        "title": "hoodie and leggings set",
+        "price": 419000,
+        "image": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2e%2F73%2F2e73e140ebdd587db151d1a35127747af5558841.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    },
+    {
+        "id": 2,
+        "title": "hoodie and leggings set",
+        "price": 399000,
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd8%2F73%2Fd8733e81280d2600801344a10dc658b5708a0b7a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+        "id": 3,
+        "title":"hoodie and leggings set",
+        "price": 419000,
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe7%2F87%2Fe787b6f8771ccccb3f167b705c4037231429a622.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+        "id": 4,
+        "title": "hoodie and leggings set",
+        "price": 359000,
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F73%2F6f%2F736f64503a01b5ddaf59fcb5c6545c67379277e1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+        "id": 5,
+        "title": "Harry coat",
+        "price": 319000,
+        "image": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F41%2F30%2F4130ef82260a8ef434bb06f9eb5e849f8cc6bce1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    },
+    {
+        "id": 6,
+        "title": "wizard",
+        "price": 319000,
+        "image": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F7d%2F32%2F7d32b6afe41de5ad85b489c0f29b64e7071ac396.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    },
+    {
+        "id": 7,
+        "title": "Pricess Dress",
+        "price": 149000,
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F78%2Fa0%2F78a07b2c962a546e7a295604a87ac9e4ffb60140.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    }
+
+]
