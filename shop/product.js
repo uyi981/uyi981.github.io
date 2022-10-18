@@ -70,14 +70,8 @@ article.innerHTML = `
             <button class="btn-primary" onclick="addItem(this)"  id=${index}>Thêm vào giỏ </button>
         </div>
     </div>
-    <p class="details">THÔNG TIN SẢN PHẨM: <br>
-        - Kiểu dáng: Đầm hai dây trễ vai, phom xòe dài, thắt nơ sau lưng và tạo điểm nhấn là hàng cúc phía trước. <br>
-        - Chất liệu vải: KAKI mềm, mát <br>
-        - Màu sắc: TRẮNG <br>
-        - Kích thước size (Đo theo đơn vị cm): <br>
-        SIZE S: Dài đầm 86 | Ngực 84 | Eo 64 | Mông 90 <br>
-        SIZE M: Dài đầm 86 | Ngực 88 | Eo 68 | Mông 94 <br>
-        SIZE L: Dài đầm 86 | Ngực 92 | Eo 72 | Mông 98</p>
+    <p class="details">
+    </p>
 </div>
 </div>
 `
